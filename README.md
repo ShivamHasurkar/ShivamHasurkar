@@ -8,6 +8,10 @@
 
 - 🔭 I’m currently working on [Ledger Alchemy](https://github.com/Fullstack-Alchemists-SJSU/ledger-alchemy-ui)
 
+- 🤖 Here are a couple of GPTs I created :
+  - Automobile Expert - [Link](https://chat.openai.com/g/g-AE4zlY2AZ-automobile-expert)
+  - Gita Guide - [Link](https://chat.openai.com/g/g-QCJwYt9Li-gita-guide)
+
 - 📝 Read my articles on [https://medium.com/@hasurkarshivam](https://medium.com/@hasurkarshivam)
 
 - 📫 How to reach me **hasurkarshivam@gmail.com**
@@ -23,16 +27,16 @@
 ---
 
 **🔥 Project Highlights:**
-- **[Financial Analysis Application](https://github.com/yourusername/financial-analysis-app)** - Engineered a scalable portal for financial insights. 📈
-- **[Macroeconomic Copilot Chatbot](https://github.com/yourusername/macroeconomic-chatbot)** - Built an AI-driven chatbot to support UN SDGs. 🌐
-- **[Kaizen Portal](https://github.com/yourusername/kaizen-portal)** - Digitized process improvement, boosting company growth. 💡
+- **[Financial Analysis Application](https://github.com/Fullstack-Alchemists-SJSU)** - Engineered a scalable portal for financial insights. 📈
+- **[Macroeconomic Copilot Chatbot](https://github.com/Fullstack-Alchemists-SJSU/hackathon-backend)** - Built an AI-driven chatbot to support UN SDGs. 🌐
+- **Kaizen Portal** - Digitized process improvement, boosting company growth. 💡
 
 ---
 
 **💼 Where I've Worked:**
-- **Software Engineer @ Persistent Systems Ltd.** - Innovator in 5G analysis 🚀
-- **Intern Software Developer @ Menon and Menon Ltd.** - Built health-tech solutions amid Covid 🏥
-- **Intern Software Engineer @ Compserv Consultants Ltd.** - Simplified ERP systems with a mobile app 📱
+- **Software Engineer @ Persistent Systems Ltd.** `Jul 2021 - June 2023` - Innovator in 5G analysis 🚀
+- **Intern Software Developer @ Menon and Menon Ltd.** `Aug 2020 - Nov 2020` - Built health-tech solutions amid Covid 🏥
+- **Intern Software Engineer @ Compserv Consultants Ltd.** `May 2020 - July 2020` - Simplified ERP systems with a mobile app 📱
 
 ---
 
@@ -42,11 +46,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/shivam_hasurkar" target="_blank">
+  <a href="https://www.instagram.com/shivam_hasurkar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4805F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@shivamhasurkar" target="_blank">
+  <a href="https://medium.com/@hasurkarshivam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30"/>
   </a>
 </div>
